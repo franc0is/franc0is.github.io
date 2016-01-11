@@ -2,7 +2,7 @@
 layout: post
 title:  "Lorem Ipsum Dolor Sit Amet"
 date:   2016-01-09 11:19:24
-categories: jekyll update
+categories: [jekyll, update]
 ---
 {% highlight ruby %}
 def print_hi(name)
